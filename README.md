@@ -1,6 +1,6 @@
 # **📊 Human Resource Analytics using Machine Learning**
 
-##### **🎯 Domain**
+## **🎯 Domain**
 
 Data Analytics | Machine Learning | Business Intelligence
 
@@ -20,7 +20,7 @@ Data Analytics | Machine Learning | Business Intelligence
 
 - BI Tool: Streamlit
 
-##### **📁 Dataset Overview**
+## **📁 Dataset Overview**
 
 - Dataset Size: 1,00,000 records
 
@@ -40,7 +40,7 @@ Data Analytics | Machine Learning | Business Intelligence
     
     - Placement & job acceptance status
 
-##### **📌 Business Problem Statement**
+## **📌 Business Problem Statement**
 
 Educational institutions and training organizations face challenges in:
 
@@ -54,7 +54,7 @@ Educational institutions and training organizations face challenges in:
 
 This project provides a data-driven analytics solution to support strategic academic and placement decisions.
 
-##### **🎯 Project Objectives**
+## **🎯 Project Objectives**
 
 - Analyze factors influencing student placement success
 
@@ -64,7 +64,7 @@ This project provides a data-driven analytics solution to support strategic acad
 
 - Deliver insights through an interactive business dashboard
 
-##### **📈 Key KPIs Tracked**
+## **📈 Key KPIs Tracked**
 
 - Total Candidates
 
@@ -80,7 +80,7 @@ This project provides a data-driven analytics solution to support strategic acad
 
 - High-Risk Candidate Percentage
 
-##### **🔍 Analysis Performed**
+## **🔍 Analysis Performed**
 
 **1️⃣ Exploratory Data Analysis (EDA)**
 
@@ -111,7 +111,7 @@ Purpose:
 Purpose:
 - To predict placement and dropout risk and explain influencing factors.
 
-##### **📊 Interactive Streamlit Dashboard**
+## **📊 Interactive Streamlit Dashboard**
 
 The dashboard provides:
 
